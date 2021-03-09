@@ -1,0 +1,26 @@
+body{
+  background-color:black;
+  color: cadetblue;
+}
+#main{
+  text-align: center;
+}
+canvas{
+  border: 5px solid white;
+}
+#msg{
+  font-size: 30px;
+  color: white;
+}
+@media only screen and (max-width: 600px) {
+  canvas {
+    height: 400px;
+    width: 400px;
+  }
+}
+@media only screen and (max-width: 450px) {
+  canvas {
+    height: 350px;
+    width: 350px;
+  }
+}
