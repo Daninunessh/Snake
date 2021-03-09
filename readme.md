@@ -16,7 +16,7 @@ The following tools were used in the construction of the project:
 ### Author
 ---
 
- <img style="border-radius: 50%;" src="/assets/images/eu.jpg" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="eu.jpg" width="100px;" alt=""/>
  <br />
 
 Danielle Nunes
